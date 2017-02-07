@@ -1,0 +1,42 @@
+.wpsm-show a, .wpsm-show:active, .wpsm-show:visited {
+   cursor: pointer;
+   text-decoration: none;
+}
+.wpsm-show:hover {
+   cursor: pointer;
+   text-decoration: underline;
+}
+.wpsm-hide a, .wpsm-hide:active, .wpsm-hide:visited {
+   cursor: pointer;
+   text-decoration: none;
+}
+.wpsm-hide:hover {
+   cursor: pointer;
+   text-decoration: underline;
+}
+.wpsm-content-hide {
+  display: none;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.wpsmc-show a, .wpsmc-show:active, .wpsmc-show:visited {
+   cursor: pointer;
+   text-decoration: none;
+}
+
+.wpsmc-show:hover {
+   cursor: pointer;
+   text-decoration: underline;
+}
+.wpsmc-hide a, .wpsmc-hide:active, .wpsmc-hide:visited {
+   cursor: pointer;
+   text-decoration: none;
+}
+.wpsmc-hide:hover {
+   cursor: pointer;
+   text-decoration: underline;
+}
+.wpsmc-content-hide {
+  display: none;
+}
