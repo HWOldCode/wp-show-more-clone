@@ -16,3 +16,6 @@ You can use some parameters like:
 # Modification
 We have cut Link "show more" and "content".
 You can place your content everywhere on your website!
+
+# Original
+https://de.wordpress.org/plugins/wp-show-more/
